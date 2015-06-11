@@ -1,0 +1,6 @@
+mode dalam bermain dota :
+AP = all pick
+AR = all random
+SD = Single Draft
+AB = Ability Draft 
+CM = Captain mode 
