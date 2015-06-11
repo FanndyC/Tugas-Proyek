@@ -1,0 +1,19 @@
+Tipe" Hero
+
+-Hero Strength
+Hero ini memiliki atribut sterngth atau ada gambar tangannya. Item pertama yang kamu ambil adalah Bracer. Sepatu yang support dengan strength adalah Power Treads dengan atribut strength. Item support lain hero strength adalah Heaven’s Halberd. Item ini membuat miss kalo kamu diserang karena kebanyakan strength adalah tanker. Tanker yaitu hero paling depan dalam war. Item core untuk strength jelas yaitu Heart of Tarrasaque.-
+
+-Hero Agility
+Hero ini memiliki atribut agility atau ada gambar kakinya. Item pertama yang kamu ambil adalah Wraith Band. Sepatu yang support dengan agility adalah Power Treads dengan atribut agility. Item support lain hero agility adalah Sange and Yasha. Item ini membuat hero yang kamu incar menjadi slow ketika diserang kamu. Item core untuk agility jelas yaitu Butterfly.
+
+-Hero Intelligence
+Hero ini memiliki atribut intelligence atau ada gambar kepala dengan otaknya. Item pertama yang kamu ambil adalah Null Talisman. Sepatu yang support dengan intelligence adalah PowerTreads dengan atribut intelligence. Item support lain hero intellience adalah Orchid Malevolence. Item ini bisa men-silent musuh agar tidak bisa mengeluarkan skill selama beberapa detik. Item core untuk intelligence adalah Guinsoo’s Schyte of Vyse.
+
+-Hero Chance
+Hero ini memiliki skil pasif yang keluarnya menggunakan chance. Item pertama yang kamu ambil menyesuaikan atribut hero tersebut. Sepatu yang support dengan hero ini yaitu Arcane Boots. Item core hero ini adalah Manta Style. Manta Style berfungsi untuk membuat 2 bayangan, karena jika heromu ada 3 maka chance yang jarang muncul pun akan keluar 3x. Kombinasikan Arcane Boots dan Manta Style karena kedua item itu bisa sinkron.
+
+-Hero Orb
+Hero ini memiliki skil aktif yang biasanya harus diklik menjadi memutar untuk mengaktifkannya dan setelah diklik akan mengeluarkan orb effect yang mematikan. Ada 2 jenis orb yaitu orb yang menghabiskan health kamu dan mana kamu. Item pertama yang diambil seprti biasa menyesuaikan atributmu. Untuk yang menghabiskan health ambilah sepatu Power Treads dengan atribut strength karena akan menambah hp kamu. Untuk yang menghabiskan mana ambilah sepatuArcane Boots untuk menambah mana kamu. Item core untuk hero yang memiiki orb adalah Bloodstone karena item ini menambah besar hp dan mana kamu.
+
+-Hero Ultimate
+Hero inimemiliki skil ultimate yang bisa diupgrade. Item pertama yang kamu ambil sesuaikan dengan atribut heromu. Sepatu yang diambil adalah Arcane Boots untuk menambah mana jika skil ultimatemu membutuhkan mana untuk keluar dan Power Treads dengan atribut strength jika skil ultimatemu membutuhkan hp untuk keluar. Item core untuk hero ini adalah Aghanim’s Scepter untuk mengupgrade ultimate skilmu.
