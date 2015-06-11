@@ -1,0 +1,23 @@
+DotA 2 merupakan salah satu game yang amat sangat terkenal saat ini. Tidak tanggung-tanggung, game dengan genre MOBA (Multiplayer Online Battle Arena - semacam ‘gabungan’ antara genre Real-time Strategy dan Action) ini dimainkan oleh lebih dari jutaan gamer PC, mulai dari gamer casual hingga ke gamer profesional. Kompetisi game DotA 2 pada tingkat tertingginya, yang dinamakan The International, bahkan tercatat sebagai kompetisi game dengan hadiah luar biasa besar, lebih dari USD 1 juta! Dan yang paling menarik dari itu semua: game ini memiliki konsep free-to-play, dengan kata lain GRATIS!
+
+
+    OS: Windows 7
+    Processor: Dual core from Intel or AMD at 2.8 GHz
+    Memory: 4 GB RAM
+    Graphics: nVidia GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600
+    DirectX: Version 9.0c
+    Network: Broadband Internet Connection
+    Hard Drive: 8 GB available space
+    Sound Card: DirectX Compatible
+
+
+
+Terlihat mudah untuk dipenuhi? Kami juga berpikir demikian. Hanya butuh CPU dual-core, RAM 4GB, dan kartu grafis kelas DirectX9, berarti sebagian besar PC murah di luar sana mampu untuk menjalankan DotA 2 selama koneksi Internet-nya lancar bukan? Ternyata tidak demikian!
+
+Mengesampingkan faktor koneksi Internet, kami pernah beberapa kali membaca keluhan dari pemain game DotA 2 yang mengatakan bahwa PC-nya sering sekali mengalami gangguan performa berupa framerate drop/FPS drop yang signifikan, meskipun setting detail pada game-nya sudah diset pada tingkat minimal, dan PC-nya sudah melewati kebutuhan minimum yang diminta DotA 2.
+
+Framerate, atau Frame per second (FPS) seringkali menjadi acuan untuk melihat lancar-tidaknya sebuah game saat dimainkan, dengan 30 FPS menjadi ‘syarat minimal’ untuk permainan yang nyaman. Namun, kami menyadari bahwa 30 FPS bukan tingkat framerate yang bisa dikatakan nyaman pada sebuah game yang sangat kompetitif dan action-heavy ini.
+
+Melalui diskusi dengan beberapa pemain DotA 2, kami mencari tingkat framerate yang bisa dianggap cukup ‘nyaman’. Kebanyakan diantara pemain DotA 2 pada tingkat kompetitif menyatakan bahwa mereka baru bisa mendapat perngalaman bermain yang maksimal dan mendapat respon input yang memadai saat nilai minimum FPS mereka berada pada kira-kira 45-50 FPS . Perlu diingat, tingkat framerate yang kami maksud disini bukan rata-rata FPS, melainkan nilai minimum FPS.
+
+Catatan tambahan: pada awalnya pengujian kami akan kebutuhan minimum FPS ini dibuat dengan pengukuran frametime, bukan FPS. Kami mengkonversi data frametime ini ke FPS (dan bukan frametime) karena lebih mudah dimengerti. Karena itu, kebutuhan 50 FPS (atau 20ms frametime) secara minimum ini dibuat dengan asumsi bahwa sistem tidak mengalami micro-stuttering saat gameplay berlangsung. 

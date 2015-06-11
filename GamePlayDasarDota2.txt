@@ -1,0 +1,16 @@
+Level
+Pada DOTA 2, setiap kita selesai memainkan sebuah game, maka kita akan mendapatkan Battle Point (BP). Jumlah BP yang kita dapatkan bergantung dari lamanya menit kita bermain. Semakin lama game berlangsung, maka semakin banyak pula BP yang ktia dapatkan. Apabila BP sudah mencapai 1000 point, level kita akan naik satu tingkat. Level ini berguna untuk mendapatkan item rare (langka) pada saat selesai memainkan game. Makin tinggi level yang kita miliki, maka akan semakin tinggi pula kemungkinan item rare yang kita dapatkan.
+
+Matchmaking
+Berbeda dengan DOTA, DOTA 2 menggunakan sistem matchmaking untuk bermain dalam suatu game. Sistem pada steam akan secara otomatis mencari server yang ada untuk kita bermain. Ketika sistem sudah menemukan server tempat kita akan bermain, maka kita akan diberikan pilihan untuk accept atau decline untuk bermain di server tersebut.
+
+Customize Hero
+Pada DOTA 2 kita dapat merubah tampilan HERO sesuai dengan keinginan kita. Yaitu dengan merubah equip pada tampilan hero menggunakan item yang ada. Contoh sederhananya adalah kita dapat mengubah jubah yang dipakai Furion ataupun pedang yang dimiliki oleh Sven dengan pedang yang kita dapatkan ataupun dengan cara membelinya dari STORE. Item ini tidak berpengaruh pada HERO yang kita mainkan selain hanya tampilan HERO yang lebih cantik dan elegan.
+
+Sistem Pembelian Item
+Sistem pembelian item pada DOTA 2 sangat mudah jika dibandingkan dengan DOTA. Kita dapat mengetahui item apa saja yang direkomendasikan untuk HERO yang kita pakai (dapat kita edit sendiri) sebagai referensi dalam pembelian item. Dan kita hanya perlu klik kiri pada resep item untuk membeli item tersebut. Jadi jika kita akan membuat Power Treads, kita tidak perlu membeli secara terpisah Boots, Belt Of Strength dan Glove of haste. Kita hanya perlu membeli resep Power Treads, maka sistem akan otomatis membeli item-item yang dibutuhkan, tentu saja gold yang dibutuhkan harus memenuhi.
+
+Keyword Skill
+Tombol cepat untuk mengakses skill pada HERO cukup simple pada DOTA 2. Kita hanya perlu mengingat 4 keyword (secara umum, ada beberapa hero yang mempunyai 6 keyword), yaitu Q, W, E dan R. Q untuk tombol cepat skill pertama, W untuk tombol cepat skill kedua, E untuk tombol cepat skill ketiga, dan R untuk tombol cepat skill ultimate hero.
+
+Secara garis besar, dari gameplay, HERO dan item-item yang ada pada DOTA 2, semuanya hampir sama dengan DOTA. Jadi bagi yang sudah terbiasa bermain DOTA pasti tidak akan mengalami kesulitan dalam bermain di DOTA 2. Untuk gameplay pada DOTA 2 akan dijelaskan pada post selanjutnya. Selamat bermain
