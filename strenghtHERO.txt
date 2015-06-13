@@ -1,0 +1,112 @@
+Strength Heroes
+
+Strength Heroes are tough warriors and can withstand more damage than other Heroes. Because of their high Strength, these Heroes have the greatest natural Health and can regenerate quickly, keeping them in the fight and dealing damage. Strength Heroes can fit a variety of roles, and are almost always Melee Heroes.
+
+Earthshaker
+A real force of nature, Raigor Stonehoof delivers seismic Fissures that stun and isolate his foes. Never outgunned when outnumbered, Raigor's Echo Slam is known to obliterate legions of attackers at once.
+
+Axe
+A one-man army that demands the enemy's full attention, Mogul Khan taunts his foes into unwinnable melee duels and Culls the weak from his sight with fell sweeps of his Axe.
+
+Sven
+Proud in his exile, Sven has only his own rogue strength to count on and such mighty strength it is! Smashing opponents into the ground with his Storm Bolts and cleaving them apart, the Rogue Knight is invincible in close combat.
+	
+
+Pudge
+More meat than man, Pudge's long range Meat Hook reels in surprised victims from the battlefield and onto the Butcher's workbench, ready to be dismembered and eaten alive.
+
+Tiny
+Big things come in little packages - Tiny can cause Avalanches at a whim, Toss his targets through the air, and Grow to immense sizes, treading over his enemies as a hulking Stone Giant.
+
+Sand King
+Whipping around disabling enemies like the shifting sands themselves, Crixalis the Sand King calls upon the power of the deserts to stun and destroy his foes.
+
+Kunkka
+The Captain and sole "survivor" of a doomed navy, the Admiral Kunkka wields the legendary sword Tidebringer, capable of destroying enemy armies, manipulating huge Torrents and summoning the Ghost of his ill-fated Ship to dash his enemies to the rocks and buff his allies.
+	
+Slardar
+Determined to chase down his prey, the Slithereen Guard Slardar can mark someone with Amplify Damage to make it impossible to hide from his savage bashes and stuns.
+
+Beastmaster
+Wild and dangerous, Karroch the Beastmaster calls upon ferocious allies to scout and hunt, and causes chaos among enemies with his Primal Roar and Wild Axes.
+
+Tidehunter
+Tougher than the seas themselves, Tidehunter Leviathan shrugs off blow after blow, clobbering enemies with his anchor and summoning abyssal gods to Ravage everything with flailing tentacles.
+
+Dragon Knight
+More than meets the eye, Dragon Knight Davion tips the scales by stunning his foes and breathing fire, and taps his draconic heritage to unleash his Elder Dragon Form.
+
+Wraith King
+Ostarion the Wraith King is neither brief nor cowardly, utilizing brute strength and the essence of the wraith against his enemies, gashing them with soul-shattering blows, and Reincarnating should he fall.
+
+Clockwerk
+A mechanized warrior full of tricks and traps, Rattletrap in his Clockwerk armor uses flares and cogs to damage enemies and closes in with his trusty Hookshot from far away to sow chaos and disorder.
+
+Lifestealer
+Fearsome and vicious, N'aix the Lifestealer Feasts upon his foes as he attacks them and Infests Creeps to Consume them whole, all for his so-called Master.
+
+Omniknight
+Fear nothing! Purist Thunderwrath the Omniknight turns the tide of battles with strong heals and buffs, calling upon his Guardian Angel to make his allies almost invulnerable.
+
+Night Stalker
+When the sun sets, the Night Stalker rises. Fast and agile at night, Balanar stalks his prey relentlessly, crippling and murdering his unlucky foes, and even forcing the world into Darkness at a whim.
+
+Huskar
+Sacrifice is strength, and Huskar puts that strength to use. Channeling pain into power, the Sacred Warrior burns his foes with spears and cuts enemies in half with his powerful Life Break.
+
+Doom
+Destructive and cataclysmic, the Doom-bringing Lucifer Devours weaker enemies whole, unleashes the fires of Hell and locks rivals in an unholy curse to ensure their Doom.
+
+Alchemist
+Brains and Brawn combined! Razzil Darkbrew the Alchemist is a chemically fueled powerhouse, hurling Unstable Concoctions at his foes and sending his Ogre into a Chemical Rage, becoming incredibly difficult to kill.
+
+Spirit Breaker
+Capable of quickly disabling and killing lone targets, Barathrum Spirit Breaker charges into enemies and crushes the lights out of them with powerful bashes.
+
+Brewmaster
+Drunk and aggressive, Mangix the Brewmaster smashes the ground with Thunder Clap, intoxicates his enemies (while fighting intoxicated himself) and splits into three elements with unique abilities during his Primal Split.
+
+Lycan
+A ferocious and deadly shapeshifter, the Lycan Banehallow summons powerful wolves, grants his entire team damage with his fearful Howl, and even assumes the form of a wolf himself.
+
+Treant Protector
+Hidden amongst the trees, Rooftrellen the Treant Protector protects his allies and buildings with Living Armor and traps his enemies in place with verdant Overgrowth.
+
+Chaos Knight
+The knight of chance, Chaos Knight sows disarray upon his enemies with his Reality Rift and Chaos Bolt before summoning powerful Phantasms of himself to aid him in battle.
+
+Io
+The phenomenon that is Io makes its presence felt throughout the battlefield, Tethering itself to allies to strengthen them before temporarily Relocating them both to anywhere in need.
+
+Undying
+A dead man walking, Undying summons hordes of zombies with his Tombstone, rending his enemies' souls and decaying their bodies, and amplifying damage with his horrible Flesh Golem plague, to spread the dire Dirge wherever he walks.
+
+Centaur Warrunner
+A brute centaur capable of dealing huge damage and returning damage inflicted upon him, Bradwarden Stomps and Stampedes over his enemies to pave his road with their fallen corpses.
+
+Magnus
+The mighty Magnus the Magnoceros charges into his foes, Skewering them upon his coveted horn before pulling them all into his reach with his feared Reverse Polarity, destroying enemy positioning.
+
+Timbersaw
+With chaotic and terrified hatred towards trees, Rizzrack in his Timbersaw suit zips around the battlefield with his long-ranged tree-latching hook and cuts enemies to pieces with his fast acting saw blades.
+
+Abaddon
+Abaddon rides into battle, shielding his allies and cursing his enemies with the mysterious power of the mist, and even when he reaches low health, enemies will find that they are fighting an insurmountable battle against the Lord of Avernus.
+
+Bristleback
+Rigwarl is no coward, and can deal large amounts damage to both single and multiple foes in battle. But he is one to turn his back on a fight, as he takes less damage when attacked from his Bristleback.
+
+Tusk
+A brutal and aggressive fighter, Ymir the Tusk traps enemies with shards of ice, rolls himself and his teammates into battle with his giant snowball, and gives foes a total knockout with his devastating Walrus Punch.
+
+Elder Titan
+Make way for the Worldsmith! The creator known as Elder Titan uses the forces that shaped the world itself to split and shatter the world he created so that it may be reborn again!
+
+Legion Commander
+Ever the brash, aggressive commander; Tresdin sows chaos among the battle and demands Duels of her opponents - duels they have next to no chance of winning.
+
+Earth Spirit
+With the force of the earth and knowledge of the ages, Kaolin uses stone remnants of his fallen army to crush, stun, and damage his foes in a variety of ways.
+
+Phoenix
+Harnessing the power of long lost suns, Phoenix burns a path through the universe; with every rebirth leaving even more destruction in its wake.
