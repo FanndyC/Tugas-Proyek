@@ -1,0 +1,10 @@
+Creeps and Neutral Creeps
+
+a.Creeps Lane
+disebut juga anak buah. Pergerakan creeps adalah automatic untuk setiap lane dan tidak bisa diganggu-gugat. Akan muncul pertama sekali pada awal permainan dimulai dan akan terus muncul setiap 30 detik.Terdiri dari 3melee creeps dan 1 range creep di setiap wave. Berubah menjadi Super Creeps jika berhasil menghancurkan barak di lane dimana creeps respawn. Dan akan menjadi Mega Creeps jika semua barak berhasil dihancurkan.
+
+b.Siege Creep
+Adalah mechanical creep. Muncul setiap 7 waves creeps. Pertama kali muncul dimenit ke 3. Siege creep tidak dapat di-skil dan hanya bisa dihancurkan dengan physical hit , walau ada beberapa skill yang dapat memberi efek pada siege creep. Siege creep akan memfokuskan serangan pada tower musuh jika berada pada jangkauan tower.
+
+c.Neutral Creeps
+sering dikatakan sebagai creep hutan. Berada di hutan Dire maupun Radian dan akan respawn setiap 1 menit. Menarik creep hutan keluar dari camp akan membuat stack pada tempat itu. 
