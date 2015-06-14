@@ -1,0 +1,14 @@
+Gold Dota 2
+
+Terdapat 2 tipe gold Dota 2 :
+a.Reliable Gold
+adalah gold yang didapatkan dari Hero kills , Roshan , Midas , couriers , Tower dan beberapa skill yang dapat menambah gold .
+
+b.Unreliable Gold
+adalah segala jenis gold yang ada mulai dari starting gold , creeps kill, neutral creeps kill , dan lain-lain.
+
+Perbedaan keduanya terletak pada :
+a.Ketika mati , gold yang akan terpakai adalah unreliable gold
+b.Membeli item akan menggunakan unreliable gold sebelum reliable gold
+c.Buyback menggunakan reliable gold
+d.Buyback mengakibatkan 40% gold akan anda terima baik reliable maupun unreliable gold .
