@@ -1,0 +1,5 @@
+Perkenalan Gameplay
+
+Dota 2 mengadu 2 tim berisikan masing-masing 5 pemain, dimana keduanya memiliki markas utama yang disebut Ancient dan tim pertama yang berhasil menghancurkan Ancient lawan adalah pemenangnya. Terdapat 3 jalan atau jalur (disebut ‘lanes’) yang menghubungkan kedua Ancient tersebut dan pasukan (‘creeps’) yang spawn atau muncul secara berkala di jalur-jalur tersebut, bertarung dengan ‘creeps’ lawan di sepanjang pertempuran menuju markas lawan.
+
+Masing-masing pemain dapat mengendalikan sebuah unit/ karakter yang disebut ‘Hero’ yang dipilih pada awal permainan. Terdapat lebih dari 100 Hero dengan type yang berbeda : Strength, Agility dan Intelligence. Setiap Hero memiliki 4 skill (beberapa memiliki lebih) aktif maupun pasif. Dengan membunuh creeps, menaikkan level, membeli item dan membuat keputusan strategi, pemain akan berusaha menjelajah map untuk menghancurkan Ancient lawannya.
