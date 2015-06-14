@@ -1,0 +1,4 @@
+Login
+
+Setelah melakukan register , lakukan login jika ingin bermain. Ingat , kita bermain Dota2 menggunakan steam . Jadi , kita harus melakukan login ke Steam sbeelum mengakses Dota 2. Masukkan Username dan password lalu lakukan login. Jika anda malas untuk mengetik ulang ID dan password di kemudian hari , centang "Remember my password" . 
+Jika anda login pertama kali , maka akan muncul User Interface untuk memasukkan kode yang dikirim ke email anda. Cek , lalu ketik ulang di User Interface Steam. Next , dan Finish. Verifikasi kode login hanya dilakukan sekali saja pada alamat IP yang sama.
