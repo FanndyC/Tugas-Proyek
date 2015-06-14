@@ -1,0 +1,5 @@
+User Interface Dota 2 
+
+Pada saat masuk ke dalam game , akan ditampilkan iklan Valve beserta dengan loading screen dota 2. Main Page adalah tempat anda mulai bermain dengan menekan Find Match serta mengecek PING , region , dan mode apa yang akan dimainkan. Sudut kiri akan terlihat account anda , click untuk melihat secara detil. Sudut kiri bawah akan terlihat friendlist anda. Tab/Navigasi di paling atas untuk melihat menu lainnya.
+
+Pada saat bermain , pertama anda akan disuguhkan loading screen anda . Setelah itu masuk ke List pemain. Lalu anda akan masuk ke mode pemilihan hero. Setelah memilih hero , anda akan melihat map anda . Dapat dilihat di kanan bawah dan disamping adalah informasi hero anda , di sampingnya lagi adalah item hero anda. Tekan tombol '~' untuk melihat Scoreboard dan gunakan mouse untuk bergerak . Setting awal skill hero ada Q W E R F D. Anda dapat mengubahnya.
