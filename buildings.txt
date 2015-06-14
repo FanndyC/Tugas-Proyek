@@ -1,0 +1,15 @@
+Buildings Dota 2 
+
+a.Tower
+Terdapat 3 tier tower dalam dota 2 untuk setiap lane . Top , memiliki 3 tier yaitu Tier 1 Top Tower , Tier 2 Top Tower , dan Tier 3 Top Tower. Begitu juga Bottom Tower. Hanya terdapat sedikit penambahan 2 Tower Mid yang melindungi Ancient. Setiap Tier Tower memiliki bonus gold yg berbeda (baik dihancurkan musuh ataupun di denied). Semakin tinggi tier Tower semakin tinggu pula bounty gold nya. Tower yang di denied hanya menghasilkan 40% dari gold normal jika tower dihancurkan. Tower memiliki skill active , Glyph of Fortification yang melindunginya sementara dari serangan fisik musuh.
+
+b.Rax/Barracks
+Dilindungi oleh Tower Tier 3 setiap lane . Jika musuh berhasil menghancurkan 2 barak yang ada di setiap lane , kita akan mendapatkan Super Creeps. Jika semua barracks berhasil dihancurkan , kita akan mendapatkan Mega Creeps . 90% game akan dimenangkan oleh tim yang memiliki Mega Creeps tercepat. 
+
+c.Accesorries
+Adalah bangunan-bangunan kecil disekitar base yang berfungsi mengalihkan perhatian creeps sementara sebelum masuk ke dalam area Ancient. 
+
+d.Fountain
+Merupakan bangunan Invulnearable yang tidak bisa dihancurkan . Tempat heroes berlindung dari serangan musuh dan regenerasi serta tempat untuk membeli item. Semua serangan dari fountain adalah True Strike(tidak dapat dihindari).
+
+Note : Semua buildings memiliki sistem Backdoor Protection dimana HP buildings akan terus diregenerasi secara cepat sehingga mustahil untuk dihancurkan tanpa memiliki damage yang kuat.
