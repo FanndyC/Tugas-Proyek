@@ -1,0 +1,15 @@
+mode dalam bermain dota :
+AP = all pick
+=>Pilih semua hero tanpa batas tanpa ada batasan.Memakai 250 starting gold jika memilih hero. Merupakan mode umum dalam permainan dota 2. Jika melakukan -random pada mode ini , starting gold tidak akan berkurang. Jika melakukan -repick setelah -random , gold akan terpakai 100.
+
+AR = all random
+=>Merupakan mode yang direkomendasikan untuk pemain expert karena kita tidak bisa memilih hero. Hero yang di dapat acak tergantung keberuntungan pemain. Tidak mengurangi starting gold kecuali menggunakan command -repick. 
+
+SD = Single Draft
+=>Campuran dari mode AP dan AR. Kita dapat memilih hero setelah hero diacak dengan formasi 1 hero STR , 1 hero AGI , 1 hero INT. Mode yang unik untuk dimainkan jika anda menyukai tantangan.
+
+AB = Ability Draft 
+=>Mode drafting pada ability/skill hero dota 2. Kita dapat melakukan combine pada skill-skill hero untuk menciptakan sebuah serangan mematikan. 
+
+CM = Captain mode
+=>Mode Captain merupakan mode yang biasa diperuntukkan untuk turnamen atau sparing play. Terdapat dua phase 'Pick' dan 'Ban'. Pick dimana kita memilih hero yang akan kita pakai. Ban dimana kita mem-ban hero yang menurut kita dapat menjadi anti dari hero yang kita pick. Biasanya , Captain mode menggunakan hero-hero yang dapat melakukan kombo sehingga lebih mudah dalam bermain. 
